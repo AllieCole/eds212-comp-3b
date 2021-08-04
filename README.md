@@ -4,3 +4,6 @@ Day three project to practice making and working with vectors in R and Python
 - Making a list
 - Showing Allison (and myself!) I can do it
 - Wow look at that 
+- tip, you need a space after the dash for it to work
+
+## Don't forget to commit!
